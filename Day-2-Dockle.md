@@ -20,7 +20,7 @@ In summary, Dockle stands as a vital tool in the Docker ecosystem, offering robu
 
 ## Checkpoint Summary:
 
-- Details of each checkpoint see CHECKPOINT.md
+- Details of each checkpoint see [CHECKPOINT.md](https://github.com/goodwithtech/dockle/blob/master/CHECKPOINT.md)
 - CIS's Docker Image Checkpoints
 
 | CODE       | DESCRIPTION                                | LEVEL |
